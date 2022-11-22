@@ -8,7 +8,7 @@ I am a computer nerd and work as a Senior Web Developer; I've been doing this si
 You can find me in different places on the interwebs; I'll keep the following list updated for your convenience:
 
 - [Twitter](https://twitter.com/bearveloper)
-- <a rel="me" href="https://mas.to/@bearveloper">Mastodon</a>
+- <a rel="me,nofollow" href="https://mas.to/@bearveloper">Mastodon</a>
 - [DEV](https://dev.to/bearveloper)
 - [GitHub](https://github.com/bearveloper)
 - [LinkedIn](https://linkedin.com/in/erickruizdechavez/)
